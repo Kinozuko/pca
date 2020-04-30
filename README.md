@@ -9,20 +9,21 @@ In this repository  we will following a [tutorial](https://towardsdatascience.co
 
 Steps involved in PCA
 
-> * Standardize the data
-> * Compute covariance matrix
-> * Obtain the Eigenvectors and Eigenvalues from the covariance matrix
-> * Sort eigenvalues in descending order and choose the top k Eigenvectors that correspond to the k largest eigenvalues
-> * nstruct the projection matrix W from the selected k Eigenvectors
-> * Transform the original data set X via W to obtain the new k-dimensional feature subspace Y
+* Standardize the data
+* Compute covariance matrix
+* Obtain the Eigenvectors and Eigenvalues from the covariance matrix
+* Sort eigenvalues in descending order and choose the top k Eigenvectors that correspond to the k largest eigenvalues
+* nstruct the projection matrix W from the selected k Eigenvectors
+* Transform the original data set X via W to obtain the new k-dimensional feature subspace Y
 
 ## Structure
 
-> .gitignore
-> README
-> requirements.txt
-> colab/
->> pca.ipynb
-> script/
->> pca.py
->> pca.png
+> .
+> |--- .gitignore
+> |--- README
+> |--- requirements.txt
+> |--- colab/
+> |------ pca.ipynb
+> |--- script/
+> |------ pca.py
+> |------ pca.png
