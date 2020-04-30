@@ -19,11 +19,16 @@ Steps involved in PCA
 ## Structure
 
 .
-├── gitignore
+├── gitignore 
+
 ├── README
+
 ├── requirements.txt
+
 ├── colab/
+
 │   └── pca.ipynb
+
 ├── script/
 │   └── pca.py
 │   └── pca.png
