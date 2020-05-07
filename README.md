@@ -2,7 +2,8 @@
 
 Original made in Colabotory, it will have two version:
 
-* Colab/Jupyter notebook
+* Colaboratory
+* Jupyter notebook
 * Python script
 
 In this repository  we will following a [tutorial](https://towardsdatascience.com/a-complete-guide-to-principal-component-analysis-pca-in-machine-learning-664f34fc3e5a) to show how to apply PCA to reduce dimensionality in datasets.
@@ -44,3 +45,6 @@ Steps involved in PCA
 
 * jupyter notebook colab/pca.ipynb
 
+### Running Colaboratory
+
+* [See in Colaboratory](https://colab.research.google.com/drive/1oF_GRtYW3AlXGwqSsQFMvW-AACh2HcRn)
