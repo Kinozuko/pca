@@ -29,3 +29,18 @@ Steps involved in PCA
 │   └── pca.py
 │   └── pca.png
 ```
+
+## Runing Project
+
+### Installing Dependecies
+
+* pip install -r requirements.txt
+
+### Running Script
+
+* python python/script/pca.py
+
+### Running Jupyter Notebook
+
+* jupyter notebook colab/pca.ipynb
+
