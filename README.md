@@ -24,7 +24,7 @@ Steps involved in PCA
 ├── gitignore 
 ├── README
 ├── requirements.txt
-├── colab/
+├── jupyter/
 │   └── pca.ipynb
 ├── script/
 │   └── pca.py
@@ -39,11 +39,11 @@ Steps involved in PCA
 
 ### Running Script
 
-* python python/script/pca.py
+* python script/pca.py
 
 ### Running Jupyter Notebook
 
-* jupyter notebook colab/pca.ipynb
+* jupyter notebook jupyter/pca.ipynb
 
 ### Running Colaboratory
 
