@@ -6,7 +6,7 @@ Original made in Colabotory, it will have two version:
 * Jupyter notebook
 * Python script
 
-In this repository  we will following a [tutorial](https://towardsdatascience.com/a-complete-guide-to-principal-component-analysis-pca-in-machine-learning-664f34fc3e5a) to show how to apply PCA to reduce dimensionality in datasets.
+In this repository  we will show how to apply PCA to reduce dimensionality in datasets.
 
 Steps involved in PCA
 
