@@ -21,8 +21,8 @@ Steps involved in PCA
 
 ```
 .
-├── gitignore 
-├── README
+├── .gitignore 
+├── README.md
 ├── requirements.txt
 ├── jupyter/
 │   └── pca.ipynb
