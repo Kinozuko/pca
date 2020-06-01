@@ -1,6 +1,6 @@
 # Principal Component Analysis
 
-Original made in Colabotory, it will have two version:
+Original made in Colabotory, it will have three version:
 
 * Colaboratory
 * Jupyter notebook
